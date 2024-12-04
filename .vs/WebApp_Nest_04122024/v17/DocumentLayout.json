@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\home2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\home2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\controllers\\home2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\controllers\\home2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Migrations\\20241204065456_changetypeofimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp_Nest_04122024\\Migrations\\20241204065456_changetypeofimageurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\models\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\models\\tagproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Migrations\\20241204055003_5table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApp_Nest_04122024\\Migrations\\20241204055003_5table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\webapp_nest_04122024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\webapp_nest_04122024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|c:\\users\\i novbe\\source\\repos\\webapp_nest_04122024\\webapp_nest_04122024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E44D9C46-CB08-41C6-82E3-4F00C40FD021}|WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj|solutionrelative:webapp_nest_04122024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:47:14.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:33:47.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:04:45.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAwwMoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:49:44.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:50:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:08:46.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Home2\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Home2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Home2\\Index.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Home2\\Index.cshtml",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAwHsBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T07:11:56.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:10:14.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T06:11:55.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:09:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Product.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:04:31.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\Home2Controller.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\Home2Controller.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\Home2Controller.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\Home2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:11:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:50:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:08:59.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Program.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T04:48:51.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Tag.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:25:10.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TagProduct.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\TagProduct.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Models\\TagProduct.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\TagProduct.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Models\\TagProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:25:22.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241204055003_5table.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Migrations\\20241204055003_5table.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Migrations\\20241204055003_5table.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Migrations\\20241204055003_5table.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Migrations\\20241204055003_5table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:50:04.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241204065456_changetypeofimageurl.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Migrations\\20241204065456_changetypeofimageurl.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Migrations\\20241204065456_changetypeofimageurl.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Migrations\\20241204065456_changetypeofimageurl.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Migrations\\20241204065456_changetypeofimageurl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T06:54:56.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Company.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:17:44.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:10:40.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T05:09:11.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Models\\Category.cs",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:04:22.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApp_Nest_04122024\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T05:07:42.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebApp_Nest_04122024",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj",
+              "RelativeToolTip": "WebApp_Nest_04122024\\WebApp_Nest_04122024.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T05:04:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp_Nest_04122024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\WebApp_Nest_04122024\\WebApp_Nest_04122024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp_Nest_04122024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgEAAAAAAAAAAAiwD0EAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T04:58:47.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

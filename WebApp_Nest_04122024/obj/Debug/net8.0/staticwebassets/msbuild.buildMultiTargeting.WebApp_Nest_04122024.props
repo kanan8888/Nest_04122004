@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApp_Nest_04122024.props" />
+</Project>
